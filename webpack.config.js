@@ -37,7 +37,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: "WebpackBoiler",
+            title: "Photo slider",
             filename: "index.html",
             template: "./src/template.html",
         }),
